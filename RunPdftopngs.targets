@@ -1,0 +1,1021 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL/pdftopngs.exe">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cidToUnicode\Adobe-CNS1">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cidToUnicode\Adobe-GB1">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cidToUnicode\Adobe-Japan1">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cidToUnicode\Adobe-Korea1">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\CMakeLists.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\Adobe-CNS1-0">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\Adobe-CNS1-1">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\Adobe-CNS1-2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\Adobe-CNS1-3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\Adobe-CNS1-4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\Adobe-CNS1-5">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\Adobe-CNS1-6">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\Adobe-CNS1-B5pc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\Adobe-CNS1-ETen-B5">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\Adobe-CNS1-H-CID">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\Adobe-CNS1-H-Host">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\Adobe-CNS1-H-Mac">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\Adobe-CNS1-UCS2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\B5-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\B5-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\B5pc-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\B5pc-UCS2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\B5pc-UCS2C">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\B5pc-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\CNS-EUC-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\CNS-EUC-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\CNS1-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\CNS1-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\CNS2-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\CNS2-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\ETen-B5-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\ETen-B5-UCS2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\ETen-B5-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\ETenms-B5-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\ETenms-B5-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\ETHK-B5-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\ETHK-B5-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\HKdla-B5-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\HKdla-B5-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\HKdlb-B5-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\HKdlb-B5-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\HKgccs-B5-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\HKgccs-B5-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\HKm314-B5-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\HKm314-B5-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\HKm471-B5-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\HKm471-B5-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\HKscs-B5-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\HKscs-B5-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\UCS2-B5pc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\UCS2-ETen-B5">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\UniCNS-UCS2-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\UniCNS-UCS2-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\UniCNS-UTF16-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\UniCNS-UTF16-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\UniCNS-UTF32-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\UniCNS-UTF32-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\UniCNS-UTF8-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-CNS1\UniCNS-UTF8-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\Adobe-GB1-0">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\Adobe-GB1-1">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\Adobe-GB1-2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\Adobe-GB1-3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\Adobe-GB1-4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\Adobe-GB1-5">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\Adobe-GB1-GBK-EUC">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\Adobe-GB1-GBpc-EUC">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\Adobe-GB1-H-CID">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\Adobe-GB1-H-Host">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\Adobe-GB1-H-Mac">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\Adobe-GB1-UCS2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GB-EUC-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GB-EUC-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GB-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GB-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GBK-EUC-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GBK-EUC-UCS2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GBK-EUC-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GBK2K-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GBK2K-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GBKp-EUC-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GBKp-EUC-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GBpc-EUC-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GBpc-EUC-UCS2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GBpc-EUC-UCS2C">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GBpc-EUC-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GBT-EUC-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GBT-EUC-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GBT-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GBT-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GBTpc-EUC-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\GBTpc-EUC-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\UCS2-GBK-EUC">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\UCS2-GBpc-EUC">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\UniGB-UCS2-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\UniGB-UCS2-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\UniGB-UTF16-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\UniGB-UTF16-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\UniGB-UTF32-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\UniGB-UTF32-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\UniGB-UTF8-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-GB1\UniGB-UTF8-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\78-EUC-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\78-EUC-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\78-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\78-RKSJ-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\78-RKSJ-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\78-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\78ms-RKSJ-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\78ms-RKSJ-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\83pv-RKSJ-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\90ms-RKSJ-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\90ms-RKSJ-UCS2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\90ms-RKSJ-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\90msp-RKSJ-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\90msp-RKSJ-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\90pv-RKSJ-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\90pv-RKSJ-UCS2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\90pv-RKSJ-UCS2C">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\90pv-RKSJ-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Add-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Add-RKSJ-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Add-RKSJ-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Add-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Adobe-Japan1-0">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Adobe-Japan1-1">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Adobe-Japan1-2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Adobe-Japan1-3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Adobe-Japan1-4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Adobe-Japan1-5">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Adobe-Japan1-6">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Adobe-Japan1-90ms-RKSJ">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Adobe-Japan1-90pv-RKSJ">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Adobe-Japan1-H-CID">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Adobe-Japan1-H-Host">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Adobe-Japan1-H-Mac">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Adobe-Japan1-PS-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Adobe-Japan1-PS-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Adobe-Japan1-UCS2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\EUC-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\EUC-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Ext-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Ext-RKSJ-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Ext-RKSJ-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Ext-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Hankaku">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Hiragana">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Hojo-EUC-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Hojo-EUC-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Hojo-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Hojo-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Katakana">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\NWP-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\NWP-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\RKSJ-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\RKSJ-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\Roman">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UCS2-90ms-RKSJ">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UCS2-90pv-RKSJ">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniHojo-UCS2-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniHojo-UCS2-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniHojo-UTF16-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniHojo-UTF16-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniHojo-UTF32-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniHojo-UTF32-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniHojo-UTF8-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniHojo-UTF8-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJIS-UCS2-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJIS-UCS2-HW-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJIS-UCS2-HW-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJIS-UCS2-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJIS-UTF16-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJIS-UTF16-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJIS-UTF32-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJIS-UTF32-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJIS-UTF8-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJIS-UTF8-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJIS2004-UTF16-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJIS2004-UTF16-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJIS2004-UTF32-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJIS2004-UTF32-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJIS2004-UTF8-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJIS2004-UTF8-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJISPro-UCS2-HW-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJISPro-UCS2-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJISPro-UTF8-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJISX0213-UTF32-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJISX0213-UTF32-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJISX02132004-UTF32-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\UniJISX02132004-UTF32-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan1\WP-Symbol">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Japan2\Adobe-Japan2-0">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\Adobe-Korea1-0">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\Adobe-Korea1-1">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\Adobe-Korea1-2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\Adobe-Korea1-H-CID">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\Adobe-Korea1-H-Host">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\Adobe-Korea1-H-Mac">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\Adobe-Korea1-KSCms-UHC">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\Adobe-Korea1-KSCpc-EUC">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\Adobe-Korea1-UCS2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\KSC-EUC-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\KSC-EUC-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\KSC-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\KSC-Johab-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\KSC-Johab-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\KSC-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\KSCms-UHC-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\KSCms-UHC-HW-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\KSCms-UHC-HW-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\KSCms-UHC-UCS2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\KSCms-UHC-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\KSCpc-EUC-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\KSCpc-EUC-UCS2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\KSCpc-EUC-UCS2C">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\KSCpc-EUC-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\UCS2-KSCms-UHC">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\UCS2-KSCpc-EUC">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\UniKS-UCS2-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\UniKS-UCS2-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\UniKS-UTF16-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\UniKS-UTF16-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\UniKS-UTF32-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\UniKS-UTF32-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\UniKS-UTF8-H">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\cMap\Adobe-Korea1\UniKS-UTF8-V">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\COPYING">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\COPYING.adobe">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\COPYING.gpl2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\Makefile">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\nameToUnicode\Bulgarian">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\nameToUnicode\Greek">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\nameToUnicode\Thai">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\README">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\unicodeMap\Big5">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\unicodeMap\Big5ascii">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\unicodeMap\EUC-CN">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\unicodeMap\EUC-JP">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\unicodeMap\GBK">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\unicodeMap\ISO-2022-CN">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\unicodeMap\ISO-2022-JP">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\unicodeMap\ISO-2022-KR">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\unicodeMap\ISO-8859-6">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\unicodeMap\ISO-8859-7">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\unicodeMap\ISO-8859-8">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\unicodeMap\ISO-8859-9">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\unicodeMap\KOI8-R">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\unicodeMap\Latin2">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\unicodeMap\Shift-JIS">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\unicodeMap\TIS-620">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)\..\content/GPL\share\poppler\unicodeMap\Windows-1255">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+    </Content>
+  </ItemGroup>
+</Project>
