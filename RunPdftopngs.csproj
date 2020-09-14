@@ -4,7 +4,7 @@
     <TargetFramework>net40</TargetFramework>
 
     <PackageId>RunPdftopngs</PackageId>
-    <Version>0.1.14</Version>
+    <Version>0.1.15</Version>
     <Authors>kenjiuno</Authors>
     <Company>HiraokaHyperTools</Company>
     <Description>The attached pdftopngs.exe Win32 command line based on poppler will extract png files somewhere.</Description>
@@ -18,7 +18,7 @@
     <None Pack="true" IncludeInPackage="false" Update="RunPdftopngs.targets" PackagePath="build/RunPdftopngs.targets">
     </None>
 
-    <None Pack="true" IncludeInPackage="false" Update="GPL/**" PackagePath="binaryFiles/%(Identity)">
+    <None Pack="true" IncludeInPackage="false" Update="GPL/**" PackagePath="binaryFiles">
     </None>
   </ItemGroup>
 
